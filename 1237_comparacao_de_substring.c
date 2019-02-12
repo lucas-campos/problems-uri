@@ -1,4 +1,11 @@
 
+/*
+ * Problema: 1237 - https://www.urionlinejudge.com.br/judge/pt/problems/view/1237
+ * Descrição: Foi implementado o algoritmo de processamento de caracteres BMHS.
+ *            BMHS - Boyer-Moore-Horspool-Sunday.
+ * Autor: Lucas Campos.
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
